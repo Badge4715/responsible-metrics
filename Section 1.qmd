@@ -5,7 +5,7 @@ format: html
 
 ## Section 1 - Responsible research metrics overview
 
-In this first section you will explore the following:
+In this first section you will explore the following areas:
 
 -   what metrics are in the context of research;
 -   the principles of responsible metrics;
