@@ -69,7 +69,7 @@ Continually assess commonly used metrics, especially concerning appropriateness 
 
 ### **Guidelines around metrics**
 
-A number of guidelines have been published which look to shape our approach to responsible metrics.  The University has its own [responsible metrics policy](https://www.southampton.ac.uk/about/governance/regulations-policies/policies/responsible-research-metrics){target="_blank"} which is based on the principles of DORA and the Leiden Manifesto (<https://doi.org/10.1038/520429a>). Below are summaries of three key international initiatives, each of which advise on a different aspect: 
+A number of guidelines have been published which look to shape our approach to responsible metrics.  The University has its own set of principles (https://keeleacuk.sharepoint.com/sites/KU-ResearchandInnovationSupport/SitePages/Responsible-Research.aspx){target="_blank"} which is based on the principles of DORA and the Leiden Manifesto (<https://doi.org/10.1038/520429a>). Below are summaries of three key international initiatives, each of which advise on a different aspect: 
 
 [**DORA (the Declaration of Research Assessment)**](https://sfdora.org/read/){target="_blank"} 
 
@@ -79,7 +79,7 @@ DORA focuses particularly on the use of journal-based metrics. Its key tenet is 
 
 DORA also supports the idea that research should be assessed on its own merits and not influenced by the reputation of the journal in which it has been published. 
 
-The University of Southampton is a signatory of DORA.
+Keele University is a signatory of DORA.
 
 [**CoARA (Coalition of Advancing Research Assessment)**](https://coara.eu/app/uploads/2022/09/2022_07_19_rra_agreement_final.pdf){target="_blank"} 
 
@@ -111,11 +111,10 @@ Complete further sections
 -   Section 3 - Using metrics in personal applications and evaluations.
 -   Section 4 - Assessing people using metrics.
 
-Read the [University responsible metrics policy](https://www.southampton.ac.uk/about/governance/regulations-policies/policies/responsible-research-metrics){target="_blank"}
+Read the University's responsible metrics principles (https://keeleacuk.sharepoint.com/sites/KU-ResearchandInnovationSupport/SitePages/Responsible-Research.aspx){target="_blank"}
 
-Visit our [Libguide on Metrics](https://library.soton.ac.uk/bibliometrics){target="_blank"}
 
-Specific question? Contact us: s.chesworth@keele.ac.uk or j.heap@keele.ac.uk
+Specific question? Contact the Library Research Services team: Scott Chesworth (s.chesworth@keele.ac.uk) or Jodie Heap (j.heap@keele.ac.uk).
 
 Further Resources external to the University:
 
