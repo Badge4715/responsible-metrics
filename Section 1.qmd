@@ -69,7 +69,7 @@ Continually assess commonly used metrics, especially concerning appropriateness 
 
 ### **Guidelines around metrics**
 
-A number of guidelines have been published which look to shape our approach to responsible metrics.  The University has its own set of principles (https://keeleacuk.sharepoint.com/sites/KU-ResearchandInnovationSupport/SitePages/Responsible-Research.aspx){target="_blank"} which is based on the principles of DORA and the Leiden Manifesto (<https://doi.org/10.1038/520429a>). Below are summaries of three key international initiatives, each of which advise on a different aspect: 
+A number of guidelines have been published which look to shape our approach to responsible metrics.  The University has its own set of principles [Read the University’s responsible metrics principles](https://keeleacuk.sharepoint.com/sites/KU-ResearchandInnovationSupport/SitePages/Responsible-Research.aspx){target="_blank"} which is based on the principles of DORA and the Leiden Manifesto (<https://doi.org/10.1038/520429a>). Below are summaries of three key international initiatives, each of which advise on a different aspect: 
 
 [**DORA (the Declaration of Research Assessment)**](https://sfdora.org/read/){target="_blank"} 
 
