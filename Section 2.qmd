@@ -130,7 +130,7 @@ Complete further sections
 -   Section 3 - Using metrics in personal applications and evaluations
 -   Section 4 - Assessing people using metrics
 
-Read the [University responsible metrics policy](https://www.southampton.ac.uk/about/governance/regulations-policies/policies/responsible-research-metrics){target="_blank"}
+Read the [Read the University’s responsible metrics principles](https://keeleacuk.sharepoint.com/sites/KU-ResearchandInnovationSupport/SitePages/Responsible-Research.aspx){target="_blank"}
 
 Visit our [Libguide on Metrics](https://library.soton.ac.uk/bibliometrics){target="_blank"}
 
