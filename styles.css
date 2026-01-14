@@ -1,4 +1,10 @@
 /* css styles */
 .navbar-logo {
+  display: block; /* Ensures proper spacing */
+    margin: 20px auto; /* Adds space around the logo and centers it */
+    padding: 10px; /* Adds blank space inside the logo container */
+    background-color: white; /* Optional: keeps the space clean */
+}
+
   max-height: 150px;
 }
