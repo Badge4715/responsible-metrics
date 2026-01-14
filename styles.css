@@ -1,8 +1,8 @@
 /* css styles */
 .navbar-logo {
   display: block;
-    margin: 20 auto;
-    padding: 10;
+    margin: 20px auto;
+    padding: 10px;
     background-color: white;
-  max-height: 150;
+  max-height: 150px;
 }
