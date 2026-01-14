@@ -19,7 +19,7 @@ In this section you will explore:
 
 Metrics are a quantitative snapshot of how some of a researcher’s research outputs have performed. There are multiple sources of metrics and many different types of metrics for different types of analysis.
 
-Using metrics when assessing research outputs is a valuable but limited measure of a researcher's contributions. Metrics should never be used as the sole assessment criteria, any evaluation of a researcher's performance should not be solely based on a set of numbers that don't fully reflect their contribution. Their expert judgment and knowledge of their own research are invaluable and should not be overshadowed by quantitative measures. A narrative approach can more accurately reflect the full breadth and depth of a researcher's impact.
+Using metrics when assessing research outputs is a valuable but limited measure of a researcher's contributions. Metrics should never be used as the sole assessment criteria, any evaluation of a researcher's performance should not be solely based on a set of numbers that don't fully reflect their contribution. Their expert judgement and knowledge of their own research are invaluable and should not be overshadowed by quantitative measures. A narrative approach can more accurately reflect the full breadth and depth of a researcher's impact.
 
 ### **Using Metrics in Assessment**
 
@@ -28,9 +28,9 @@ If you need metrics to help you in your decision-making process there are severa
 -   Set a time frame e.g. 5 years,
     -   restricting to a time frame makes it easier to compare academics at different career stages or researchers who might have had a career break.
 -   Define what you mean by ‘best’ or ‘top’ publication(s) so researchers can focus their statements/evidence and ensure that you are comparing the same thing.
--   Specify a particular source to use or a specific metrics to use.
+-   Specify a particular source to use or a specific metric to use.
     -   Some metrics are software/database specific, some of which are available via subscription only and therefore may not be available to all candidates.
--   Ask the metrics service to provide metrics for the group of candidates so that everyone will be assessed in the same way at the same time. Please contact us at [eprints\@soton.ac.uk](mailto:eprints@soton.ac.uk) to discuss.
+-   Ask the Library Research Services team if they can provide metrics for the group of candidates, so that everyone will be assessed in the same way at the same time. Please contact us at [s.chesworth\@keele.ac.uk](mailto:s.chesworth@keele.ac.uk) to discuss.
 
 ### **Limitations of metrics and things to be aware of**
 
@@ -43,7 +43,7 @@ If you need metrics to help you in your decision-making process there are severa
 -   Citations take a long time to accrue, favouring older papers over new.
 -   Lack of context:
     -   there is no way of knowing if citations are positive or negative;
-    -   volume of citations vary across disciplines, if you are subject expert you may have the contextual knowledge of what to expect but, if not it can be hard to determine whether it is good or not.
+    -   volume of citations vary across disciplines, if you are a subject expert you may have the contextual knowledge of what to expect but, if not, it can be hard to determine whether it is good or not.
 -   Requesting ‘top 10’ lists may automatically put early career researchers at a disadvantage.
 -   Different software/databases count things in different ways so it may lead to results you cannot compare.
 -   Researchers may use flawed metrics such as h-index, as a proxy of quality and not a true reflection of contribution.
