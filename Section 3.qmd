@@ -37,8 +37,6 @@ Some of these databases are free to use with an account(\*) and some of these ar
 
 Using more than one source of metrics is a good practice as systems index at different rate and speeds. 
 
-Contact the Library Research Services team: Scott Chesworth (s.chesworth@keele.ac.uk) or Jodie Heap (j.heap@keele.ac.uk) for support.
-
 ### **Limitations of Metrics** 
 
 -   Not all research outputs will be indexed
